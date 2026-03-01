@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "34+35",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-01T17:00:15.662690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/01_34+35_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+      "artist": "Ariana Grande feat. Doja Cat & Megan Thee Stallion",
+      "has_synced": false,
+      "path": "select/02_34+35_Remix_(feat._Doja_Cat,_Megan_Thee_Stallion)_-_Remix_Ariana_Grande_feat._Doja_Cat_&_Megan_Thee_Stallion.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "34+35 (remix)",
+      "artist": "Ariana Grande feat. Doja Cat & Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/03_34+35_(remix)_Ariana_Grande_feat._Doja_Cat_&_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "34+35 (Remix)",
+      "artist": "Ariana Grande, Doja Cat, Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/05_34+35_(Remix)_Ariana_Grande,_Doja_Cat,_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "34+35 (Remix)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_34+35_(Remix)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "34+35 (Remix)",
+      "artist": "Ariana Grande, Doja Cat, Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/09_34+35_(Remix)_Ariana_Grande,_Doja_Cat,_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "34+35 (remix)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_34+35_(remix)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "34+35 (remix)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_34+35_(remix)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "34+35 (Remix) (feat. Doja Cat & Megan Thee Stallion)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_34+35_(Remix)_(feat._Doja_Cat_&_Megan_Thee_Stallion)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "34+35 (feat. Doja Cat & Megan Thee Stallion) [Remix]",
+      "artist": "Ariana Grande feat. Doja Cat & Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/14_34+35_(feat._Doja_Cat_&_Megan_Thee_Stallion)_[Remix]_Ariana_Grande_feat._Doja_Cat_&_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "34+35 (Remix)",
+      "artist": "Ariana Grande, Doja Cat & Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/15_34+35_(Remix)_Ariana_Grande,_Doja_Cat_&_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "34+35 (Remix)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_34+35_(Remix)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/18_34+35_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_34+35_Ariana_Grande.txt"
+    }
+  ]
+}
